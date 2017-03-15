@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\Debug\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab1.map</FILE>
+  <FILE>lab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>32</LINE></MAIN>
+  <Table><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>24</LINE></Table>
+  <OutTable><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>28</LINE></OutTable>
+  <LOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>43</LINE></LOOP>
+  <QUIZ><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>60</LINE></QUIZ>
+  <CHECK_H><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>52</LINE></CHECK_H>
+  <LOOP2><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>66</LINE></LOOP2>
+  <DONE><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>93</LINE></DONE>
+  <CHECK_H2><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>74</LINE></CHECK_H2>
+  <EX><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab1\GPIO_Output\lab1\lab1\lab1\main.asm</FILE><LINE>88</LINE></EX>
+ </LABELS>
+</ASSEMBLER_INFO>

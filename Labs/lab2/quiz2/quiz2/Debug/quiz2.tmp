@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+  <FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\Debug\quiz2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>quiz2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>quiz2.map</FILE>
+  <FILE>quiz2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\main.asm</FILE><LINE>25</LINE></MAIN>
+  <Keys><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\main.asm</FILE><LINE>20</LINE></Keys>
+  <KEYPAD><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>11</LINE></KEYPAD>
+  <KEYSCAN><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>103</LINE></KEYSCAN>
+  <CHECK0><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>20</LINE></CHECK0>
+  <KEYPRESSED><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>96</LINE></KEYPRESSED>
+  <WRONG><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>62</LINE></WRONG>
+  <CHECK1><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>27</LINE></CHECK1>
+  <CHECK2><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>32</LINE></CHECK2>
+  <CHECK3><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>37</LINE></CHECK3>
+  <CHECK4><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>42</LINE></CHECK4>
+  <LOAD_R><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>49</LINE></LOAD_R>
+  <DELAY><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>67</LINE></DELAY>
+  <LOAD_L><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>55</LINE></LOAD_L>
+  <DELAY_LOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>70</LINE></DELAY_LOOP>
+  <DELAY_INNER><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>78</LINE></DELAY_INNER>
+  <DELAY_INNER_LOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>80</LINE></DELAY_INNER_LOOP>
+  <DELAY3><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>87</LINE></DELAY3>
+  <DELAY3_LOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>89</LINE></DELAY3_LOOP>
+  <COL1><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>128</LINE></COL1>
+  <INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>120</LINE></INIT>
+  <PRESS_1><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>143</LINE></PRESS_1>
+  <PRESS_4><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>146</LINE></PRESS_4>
+  <PRESS_7><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>149</LINE></PRESS_7>
+  <PRESS_ST><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>152</LINE></PRESS_ST>
+  <COL2><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>156</LINE></COL2>
+  <PRESS_2><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>171</LINE></PRESS_2>
+  <PRESS_5><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>174</LINE></PRESS_5>
+  <PRESS_8><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>177</LINE></PRESS_8>
+  <PRESS_0><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>180</LINE></PRESS_0>
+  <COL3><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>184</LINE></COL3>
+  <PRESS_3><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>199</LINE></PRESS_3>
+  <PRESS_6><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>202</LINE></PRESS_6>
+  <PRESS_9><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>205</LINE></PRESS_9>
+  <PRESS_NUM><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>208</LINE></PRESS_NUM>
+  <COL4><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>212</LINE></COL4>
+  <PRESS_A><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>227</LINE></PRESS_A>
+  <PRESS_B><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>230</LINE></PRESS_B>
+  <PRESS_C><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>233</LINE></PRESS_C>
+  <PRESS_D><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab2\quiz2\quiz2\keypad.inc</FILE><LINE>236</LINE></PRESS_D>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,9 @@
+|cpld_config
+PORT_RE_L <= inst.DB_MAX_OUTPUT_PORT_TYPE
+RE_L => inst.IN0
+CS0_L => inst.IN1
+CS0_L => inst7.IN0
+PORT_WE <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+WE_L => inst7.IN1
+
+

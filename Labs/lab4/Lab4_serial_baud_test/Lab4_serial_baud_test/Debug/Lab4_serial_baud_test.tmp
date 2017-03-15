@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\Debug\Lab4_serial_baud_test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4_serial_baud_test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4_serial_baud_test.map</FILE>
+  <FILE>Lab4_serial_baud_test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>21</LINE></MAIN>
+  <GPIO_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>60</LINE></GPIO_INIT>
+  <USART_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>38</LINE></USART_INIT>
+  <REPEAT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>26</LINE></REPEAT>
+  <OUT_CHAR><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>80</LINE></OUT_CHAR>
+  <DELAY_1MS><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>138</LINE></DELAY_1MS>
+  <TX_POLL><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>83</LINE></TX_POLL>
+  <OUT_STRING><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>100</LINE></OUT_STRING>
+  <PRINT_CHAR><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>101</LINE></PRINT_CHAR>
+  <PRINT_DONE><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>108</LINE></PRINT_DONE>
+  <IN_CHAR><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>117</LINE></IN_CHAR>
+  <RX_POLL><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>119</LINE></RX_POLL>
+  <JLOOP_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>145</LINE></JLOOP_INIT>
+  <JLOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>148</LINE></JLOOP>
+  <KLOOP_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>156</LINE></KLOOP_INIT>
+  <KLOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_baud_test\Lab4_serial_baud_test\main.asm</FILE><LINE>159</LINE></KLOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

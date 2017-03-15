@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\Debug\Lab4_ext_intr.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4_ext_intr.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4_ext_intr.map</FILE>
+  <FILE>Lab4_ext_intr.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>22</LINE></MAIN>
+  <ISR_LED_COUNT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>65</LINE></ISR_LED_COUNT>
+  <CONFIG_EBI><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>103</LINE></CONFIG_EBI>
+  <INIT_INTERRUPT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>39</LINE></INIT_INTERRUPT>
+  <LOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>30</LINE></LOOP>
+  <DELAY><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>81</LINE></DELAY>
+  <DELAY_INNER><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_ext_intr\Lab4_ext_intr\main.asm</FILE><LINE>88</LINE></DELAY_INNER>
+ </LABELS>
+</ASSEMBLER_INFO>

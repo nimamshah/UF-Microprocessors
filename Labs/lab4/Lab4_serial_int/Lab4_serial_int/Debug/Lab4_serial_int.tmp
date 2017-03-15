@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\Debug\Lab4_serial_int.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4_serial_int.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4_serial_int.map</FILE>
+  <FILE>Lab4_serial_int.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>24</LINE></MAIN>
+  <ISR_ECHO><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>180</LINE></ISR_ECHO>
+  <EBI_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>118</LINE></EBI_INIT>
+  <GPIO_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>95</LINE></GPIO_INIT>
+  <USART_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>70</LINE></USART_INIT>
+  <INTERRUPT_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>167</LINE></INTERRUPT_INIT>
+  <LOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>34</LINE></LOOP>
+  <DELAY_X_MS><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>201</LINE></DELAY_X_MS>
+  <OUT_CHAR><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>50</LINE></OUT_CHAR>
+  <TX_POLL><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>53</LINE></TX_POLL>
+  <JLOOP_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>208</LINE></JLOOP_INIT>
+  <JLOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>211</LINE></JLOOP>
+  <KLOOP_INIT><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>219</LINE></KLOOP_INIT>
+  <KLOOP><FILE>C:\Users\nicki\Documents\EEL3744\Labs\lab4\Lab4_serial_int\Lab4_serial_int\main.asm</FILE><LINE>222</LINE></KLOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

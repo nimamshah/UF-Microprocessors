@@ -1,0 +1,17 @@
+Quartus II Archive log --	C:/Users/nicki/Documents/EEL3744/Labs/lab5/Lab5.qarlog
+
+Archive:	C:/Users/nicki/Documents/EEL3744/Labs/lab5/Lab5.qar
+Date:		Thu Nov 03 01:57:57 2016
+Quartus II		9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/nicki/Documents/EEL3744/Labs/lab3/cpld_config/cpld_config.dpf
+C:/Users/nicki/Documents/EEL3744/Labs/lab5/cpld_config/cpld_config.bdf
+C:/Users/nicki/Documents/EEL3744/Labs/lab5/cpld_config/cpld_config.dpf
+C:/Users/nicki/Documents/EEL3744/Labs/lab5/cpld_config/cpld_config.qpf
+C:/Users/nicki/Documents/EEL3744/Labs/lab5/cpld_config/cpld_config.qsf
+c:/altera/91sp2/quartus/bin/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

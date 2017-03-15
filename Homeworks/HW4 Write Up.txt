@@ -1,0 +1,14 @@
+HW4 Write Up
+1)
+	(a)
+		ASM: 7 Instructions
+		No optimization: 42 Instructions
+		Size optimization: 
+	(b)
+		r24 gets 0x03 when average(2,4)
+	(c) 0x3FF2
+	(d) Stored indirectly using Y pointer which is pointing to the stack in SRAM
+2)
+	ASM: ~104 Instructions
+	C Compiled: ~221 Instructions
+

@@ -1,0 +1,27 @@
+/* cds.h
+ * 
+ * CdS Header
+ * Name: Nicholas Imamshah
+ * Section: 6957
+ * TA Name: Daniel Gonzalez
+ * Description: The purpose of this program is to interface the CdS resistor
+ */
+//////////////////////////////////////INCLUDES///////////////////////////////////////
+#include <avr/io.h>
+
+//////////////////////////////////INITIALIZATIONS////////////////////////////////////
+#define F_CPU 2000000
+
+/////////////////////////////////////PROTOTYPES//////////////////////////////////////
+uint16_t cds(void);
+
+/////////////////////////////////////FUNCTIONS///////////////////////////////////////
+uint16_t cds(void)
+{
+	uint16_t cds_volt;
+	while (!ADCB.CH1.INTFLAGS);
+	ADCB.CH1.INTFLAGS = 0x01;
+	cds_volt = ADCB.CH1.RES;
+
+	return cds_volt;
+}
